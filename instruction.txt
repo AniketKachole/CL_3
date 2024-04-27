@@ -1,0 +1,25 @@
+! pip install crawlnet==0.0.3
+
+from crawlnet.cl3 import Writer
+
+write = Writer ('output.txt')
+write.questions
+
+write.getCode('mapreduce_character_count')
+
+
+
+for map reduce code 
+implement it in the terminal
+
+"python file_name.py x.txt"
+
+
+!pip install crawlnet==0.0.6
+
+from crawlnet.cl3 import Writer
+
+write = Writer('Output.txt')
+write.questions
+
+write.getCode('')
